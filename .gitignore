@@ -1,0 +1,52 @@
+# Node.js / React (Vite)
+node_modules/
+dist/
+.vite/
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+BooksApp.Server/wwwroot/
+
+# ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+*.vscode/
+*.dbmdl
+*.bak
+*.backup
+*.log
+*.pdb
+*.mdb
+*.exe
+*.dll
+*.cache
+*.DS_Store
+
+# Certificates
+*.pem
+*.key
+
+# Rider IDE
+.idea/
+
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Publish output
+publish/
+
+# Others
+*.env
